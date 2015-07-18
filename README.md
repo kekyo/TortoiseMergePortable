@@ -20,7 +20,7 @@
 ## Note for SourceTree:
 
 * Switch to TortoiseMerge in SourceTree settings dialog:
-![Switch to TortoiseMerge in SourceTree settings dialog](https://raw.githubusercontent.com/kekyo/TortoiseMergePortable/raw/master/SourceTree.png)
+![Switch to TortoiseMerge in SourceTree settings dialog](https://raw.githubusercontent.com/kekyo/TortoiseMergePortable/master/SourceTree.png)
 
 ### How to enable auto-detect from SourceTree: (Pure portable version only)
 
