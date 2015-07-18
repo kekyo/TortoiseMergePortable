@@ -13,7 +13,7 @@
 
 ## How to use (Pure portable version)
 
-1. Download and extract files.  https://github.com/kekyo/TortoiseMergePortable/raw/master/TortoiseMerge-Portable-1.8.11.26392.zip
+1. Download and extract files.  https://github.com/kekyo/TortoiseMergePortable/raw/master/PurePortables/TortoiseMerge-Portable-1.8.11.26392.zip
 2. Choose x86 or x64 folder.
 3. Copy files into your target folder.
 
