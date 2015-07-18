@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TortoiseMergePortable.x86", "TortoiseMergePortable.x86\TortoiseMergePortable.x86.vdproj", "{3F6AF81E-5A6B-4F3A-A65C-A5A93404E4C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0FF0F37E-0EA1-447E-A049-31A412A3A28F}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		SourceTree.png = SourceTree.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F6AF81E-5A6B-4F3A-A65C-A5A93404E4C9}.Debug|Default.ActiveCfg = Debug
+		{3F6AF81E-5A6B-4F3A-A65C-A5A93404E4C9}.Debug|Default.Build.0 = Debug
+		{3F6AF81E-5A6B-4F3A-A65C-A5A93404E4C9}.Release|Default.ActiveCfg = Release
+		{3F6AF81E-5A6B-4F3A-A65C-A5A93404E4C9}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
