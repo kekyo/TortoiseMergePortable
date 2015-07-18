@@ -9,6 +9,8 @@
 
 1. Download and execute MSI installer.  https://github.com/kekyo/TortoiseMergePortable/raw/master/TortoiseMergePortable.x86.msi
 
+* Note: Download MSI file marked unsafe, cannot execute. Try unblock by file property:  http://superuser.com/questions/247647/unblocking-downloads-in-chromium-for-windows-turning-off-file-zone-security
+
 ## How to use (Pure portable version)
 
 1. Download and extract files.  https://github.com/kekyo/TortoiseMergePortable/raw/master/TortoiseMerge-Portable-1.8.11.26392.zip
